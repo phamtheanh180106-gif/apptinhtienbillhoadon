@@ -4,7 +4,7 @@ from datetime import datetime
 
 st.set_page_config(page_title="Order Nhà Hàng", layout="wide")
 
-st.title("🍽️ Hệ thống Order Nhà Hàng - TRƯƠNG NGỌC HIẾU")
+st.title("🍽️ Hệ thống Order Nhà Hàng - PHẠM THẾ ANH")
 
 # ==========================
 # Khởi tạo dữ liệu
