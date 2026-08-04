@@ -114,8 +114,7 @@ if page == "🍽️ Order":
         if st.session_state.order_dict:
 
             df = pd.DataFrame.from_dict(
-                st.session_state.order_dict,
-orient="index"
+                st.session_state.order_dict,orient="index"
             )
 
             st.table(df)
@@ -216,3 +215,4 @@ else:
                 st.write(
                     f"### Tổng tiền: {bill['Tổng tiền']:,.0f} VNĐ"
                 )
+                
