@@ -1,11 +1,11 @@
 import streamlit as st
-st.image"C:\Users\PC\OneDrive\画像\ảnh khách sạn.webp"("logo.jpg")
+st.image("ANH.jpg")
 import pandas as pd
 from datetime import datetime
 
 st.set_page_config(page_title="Order Nhà Hàng", layout="wide")
 
-st.title("🍽️ Hệ thống Order Nhà Hàng - PHẠM THẾ ANH")
+st.title("🍽️ Hệ thống Order Nhà Hàng - NGUYỄN NGỌC GIA BẢO")
 
 # ==========================
 # Khởi tạo dữ liệu
