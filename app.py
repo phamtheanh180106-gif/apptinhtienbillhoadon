@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("logo.jpg")
+st.image("ảnh khách sạn.webp".jpg")
 import pandas as pd
 from datetime import datetime
 
